@@ -1,7 +1,7 @@
 /* global resets */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
-  background: url('https://images8.alphacoders.com/105/thumb-1920-1054256.jpg') fixed; /* neon background */
+  background: url('https://images8.alphacoders.com/105/thumb-1920-1054256.jpg') no-repeat center center fixed; /* neon background */
   background-size: cover;
   color: #e0e0e0;
   font-family: 'Segoe UI', sans-serif;
