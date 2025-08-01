@@ -5,6 +5,7 @@ const Projects = () => (
     <div className="project-card">
       <h3>Full Stack Website(MERN)</h3>
       <p>CRUD, authentication using MERN.</p>
+   <label></label>   <a href="https://food-express-theta.vercel.app/" >Click here to view</a>
     </div>
     <div className="project-card">
       <h3>Student Data Management (Django)</h3>
